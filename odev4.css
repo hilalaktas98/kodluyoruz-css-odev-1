@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(173, 5, 5);
+    font-style: italic
+}
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    color: rgb(8, 8, 8);
+    background-color: rgb(197, 58, 141);
+}
+
+h4 {
+    color: mediumvioletred;
+}
+
+p {
+    font-size: 17px;
+    color: rgb(18, 16, 16)2, 31, 31;
+}
+
+li {
+    font-size: 17px;
+}
